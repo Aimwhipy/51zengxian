@@ -1,0 +1,1082 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>领免费保障送百元滴滴红包</title>
+    <meta charset="utf-8"/>
+    <meta name="keywords" content="黑牛保险,滴滴出行,出行红包,互联网保险,平安,泰康,大都会,招商信诺,百年人寿,交通意外,重大疾病,健康保障,问卷调查">
+    <meta name="description" content="参与黑牛保险的领免费保障送百元滴滴红包，您可以获得最高100万的公共交通意外保障，同时您还可以获得由滴滴出行提供的100元出行红包一份。黑牛保险是您保险的互联网私人订制平台，倡导安全健康合理的保险规划，为您的生活保驾护航。">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <link rel="stylesheet" href="/static/activity/smart/css/success_pc.css"/>
+    <link rel="stylesheet" href="/static/activity/smart/css/pc.css"/>
+    <script src="/static/js/jquery.min.js"></script>
+</head>
+<body>
+<style>
+    blockquote, body, button, dd, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, hr, input, legend, li, ol, p, pre, td, textarea, th, ul {
+        margin: 0;
+        padding: 0
+    }
+
+    body, button, input, select, textarea {
+        font-family: '微软雅黑', 'tahoma,arial', 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+        color: #333
+    }
+
+    button:focus, input:focus {
+        outline: 0
+    }
+
+    ::-moz-placeholder {
+        color: #d4d4d4
+    }
+
+    ::-webkit-input-placeholder {
+        color: #d4d4d4
+    }
+
+    :-ms-input-placeholder {
+        color: #d4d4d4
+    }
+
+    body {
+        background-color: #78d15b
+    }
+
+    .header-wrapper {
+        background-color: #FFF
+    }
+
+    .header {
+        background-image: url(/static/activity/smart/images/pc_header_background.png);
+        background-position: 50% 50%;
+        background-size: cover;
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/static/activity/smart/images/pc_header_background.png', sizingMethod='scale');
+        background-repeat: no-repeat;
+        height: 430px;
+        background-color: #78d15b;
+        border: 0
+    }
+
+    .header .header-content {
+        position: relative
+    }
+
+    .header .logo {
+        position: absolute;
+        top: 70px;
+        left: 0
+    }
+
+    .header .logo img {
+        width: 200px
+    }
+
+    .page-container {
+        background-color: transparent;
+        padding-bottom: 30px
+    }
+
+    .page-container .form-header {
+        margin-left: -24px;
+        position: relative;
+        z-index: 1
+    }
+
+    .page-container .form-header img {
+        width: 949px
+    }
+
+    .page-container .form-sub-title {
+        background-color: #f1aa2e;
+        color: #FFF;
+        height: 49.01px;
+        line-height: 49.01px;
+        text-align: center;
+        margin-top: -12px;
+        position: relative;
+        z-index: 2
+    }
+
+    .page-container .survey-form.survey-form-error .text-items .submit-button {
+        background-color: #ccc
+    }
+
+    .page-container .survey-form .choice-container {
+        padding: 30px 60px
+    }
+
+    .page-container .survey-form .choice-container .form-item-error {
+        visibility: hidden;
+        color: #ff250b
+    }
+
+    .page-container .survey-form .choice-container .form-item-error.show {
+        visibility: visible
+    }
+
+    .page-container .survey-form .form-item {
+        margin-bottom: 30px
+    }
+
+    .page-container .survey-form .form-item .form-item-title {
+        margin-bottom: 10px;
+        color: #3c8126;
+        font-size: 16px;
+    }
+
+    .page-container .survey-form .form-item .item-radio {
+        display: inline-block;
+        width: 220px
+    }
+
+    .page-container .survey-form .form-item .item-radio input {
+        margin-right: 10px;
+        position: relative;
+        top: -1px
+    }
+
+    .page-container .survey-form .text-input-container {
+        padding: 0 30px 30px;
+        color: #3c8126;
+    }
+
+    .page-container .survey-form .text-input-container .text-input-items {
+        background-color: #deffd3
+    }
+
+    .page-container .survey-form .text-input-container a {
+        color: #3f88b2
+    }
+
+    .page-container .survey-form .text-input-container .sub-title {
+        text-align: center;
+        margin-bottom: 30px
+    }
+
+    .page-container .survey-form .text-input-container .input-container {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 100px
+    }
+
+    .page-container .survey-form .text-input-container .form-item {
+        position: relative;
+        margin: 20px;
+        display: inline-block;
+    }
+
+    .page-container .survey-form .text-input-container .form-item .tip {
+        position: absolute;
+        top: 45px;
+        left: 85px
+    }
+
+    .page-container .survey-form .text-input-container .form-item .form-item-input, .page-container .survey-form .text-input-container .form-item .form-item-title {
+        display: inline-block;
+    }
+
+    .page-container .survey-form .text-input-container .form-item .form-item-input {
+        width: 275px
+    }
+
+    .page-container .survey-form .text-input-container .form-item .form-item-error {
+        position: absolute;
+        left: 80px;
+        top: 40px;
+        color: #ff250b;
+        width: 500px;
+        display: none
+    }
+
+    .banner .free, .banner img, .page-container .survey-form .text-input-container .form-item.error .form-item-error {
+        display: block
+    }
+
+    .page-container .survey-form .text-input-container .form-item.form-item-mobile .form-item-error {
+        top: 85px
+    }
+
+    .page-container .survey-form .text-input-container .form-item.form-item-mobile-pc .form-item-error {
+        top: 40px
+    }
+
+    .page-container .survey-form .text-input-container .form-item.form-item-check {
+        margin-top: 30px
+    }
+
+    .page-container .survey-form .text-input-container .form-item .checkbox {
+        position: relative;
+        vertical-align: middle;
+        top: -1px
+    }
+
+    .page-container .survey-form .text-input-container .form-item .form-item-title {
+        width: 80px;
+        padding-top: 5px
+    }
+
+    .page-container .survey-form .text-input-container .form-item .input-text {
+        padding: 8px;
+        border: 1px solid #b4f19f;
+        width: 220px;
+        font-size: 14px
+    }
+
+    .page-container .survey-form .text-input-container .form-item-submit {
+        text-align: center;
+        margin-top: 65px
+    }
+
+    .page-container .survey-form .text-input-container .form-tip {
+        font-size: 16px;
+        margin-top: 15px
+    }
+
+    .page-container .survey-form .text-input-container .submit-button {
+        background-color: #f1aa2e;
+        font-size: 24px;
+        color: #fff;
+        border: 0;
+        width: 325px;
+        height: 50px;
+        line-height: 50px;
+        cursor: pointer;
+        border-radius: 3px
+    }
+
+    .page-wrapper {
+        background-color: #c1f9ae
+    }
+
+    .banner {
+        width: 100%;
+        margin-bottom: 25px;
+        position: relative
+    }
+
+    .banner img {
+        width: 100%
+    }
+
+    .banner .free {
+        position: absolute;
+        right: 40px;
+        top: -18px
+    }
+
+    .banner .free img {
+        width: 40px
+    }
+
+    .heiniu-description {
+        background-color: #f1aa2e
+    }
+
+    .heiniu-description .feature {
+        display: inline-block;
+        width: 200px;
+        text-align: center;
+        padding-bottom: 30px
+    }
+
+    .heiniu-description .feature .icon {
+        margin-top: 20px
+    }
+
+    .heiniu-description .feature .icon img {
+        width: 80px
+    }
+
+    .heiniu-description .feature h2 {
+        font-size: 14px
+    }
+
+    .heiniu-description .feature p {
+        text-align: left;
+        font-size: 10px;
+        padding-left: 50px;
+        color: #FFF
+    }
+
+    .heiniu-description .feature.feature2 .icon img {
+        position: relative;
+        top: -20px
+    }
+
+    .heiniu-description .feature.feature2 p {
+        padding-left: 43px
+    }
+
+    .heiniu-description .feature.feature3 {
+        border-right: 1px solid #e29c21
+    }
+
+    .heiniu-description .feature.feature3 p {
+        padding-left: 55px
+    }
+
+    .heiniu-description .feature.weixin {
+        margin-left: 45px
+    }
+
+    .heiniu-description .feature.weixin .icon img {
+        width: 110px
+    }
+
+    .heiniu-description .feature.weixin p {
+        padding-left: 5px;
+        text-align: center
+    }
+
+    .activity-rules {
+        position: relative;
+        background-color: #c1f9ae
+    }
+
+    .activity-rules h2 {
+        padding: 30px 0 0 30px;
+        color: #31791a
+    }
+
+    .activity-rules .rules-list {
+        padding: 10px 0 30px 30px;
+        line-height: 28px;
+        font-size: 13px
+    }
+
+    .activity-rules s {
+        display: block;
+        position: absolute;
+        right: 0;
+        bottom: -5px;
+        background-color: #78d15b
+    }
+
+    .activity-rules s img {
+        width: 100px
+    }
+
+    .dialog-container {
+        background-color: #fff;
+        width: 480px;
+        position: fixed;
+        top: 100px;
+        left: 50%;
+        margin-left: -240px;
+        z-index: 999999;
+        display: none
+    }
+
+    .dialog-container.show {
+        display: block
+    }
+
+    .dialog-container .dialog-header {
+        height: 55px;
+        line-height: 55px;
+        color: #777;
+        background-color: #fafafa;
+        border-bottom: 1px solid #d5d5d5;
+        position: relative
+    }
+
+    .dialog-container .dialog-header .dialog-close {
+        position: absolute;
+        display: block;
+        background-color: #ececec;
+        text-decoration: none;
+        color: #9f9f9f;
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+        text-align: center;
+        font-size: 20px;
+        border: 1px solid #d5d5d5;
+        top: 50%;
+        margin-top: -16px;
+        right: 16px
+    }
+
+    .dialog-container .dialog-header .dialog-close:hover {
+        background-color: #d5d5d5
+    }
+
+    .dialog-container .dialog-header h2 {
+        font-size: 20px;
+        font-weight: 400;
+        padding-left: 16px
+    }
+
+    .dialog-container .dialog-body {
+        text-align: center;
+        padding: 20px 0;
+        font-size: 18px
+    }
+
+    .dialog-container .dialog-icon, .dialog-container .dialog-text {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0 10px
+    }
+
+    .dialog-container .dialog-footer {
+        text-align: center
+    }
+
+    .dialog-container .dialog-footer .dialog-close {
+        display: inline-block;
+        width: 136px;
+        text-align: center;
+        height: 42px;
+        line-height: 42px;
+        color: #fff;
+        background-color: #d41c3f;
+        text-decoration: none;
+        margin-bottom: 30px
+    }
+
+    .dialog-mask {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: #000;
+        opacity: .4;
+        filter: alpha(opacity=20);
+        display: none
+    }
+
+    .dialog-mask.show {
+        z-index: 10000;
+        display: block
+    }
+
+    blockquote, body, button, dd, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, hr, input, legend, li, ol, p, pre, td, textarea, th, ul {
+        margin: 0;
+        padding: 0
+    }
+
+    .header .header-content, .page-container {
+        width: 900px;
+        margin: 0 auto
+    }
+
+    body, button, input, select, textarea {
+        font-family: 'tahoma,arial', 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+        color: #333
+    }
+
+    button:focus, input:focus {
+        outline: 0
+    }
+
+    ::-moz-placeholder {
+        color: #d4d4d4
+    }
+
+    ::-webkit-input-placeholder {
+        color: #d4d4d4
+    }
+
+    :-ms-input-placeholder {
+        color: #d4d4d4
+    }
+
+    body {
+        background-color: #78d15b;
+        font-size: 14px
+    }
+
+    .header {
+        height: 60px;
+        background-color: #FFF;
+        border-bottom: 1px solid #62a849
+    }
+
+    .page-container {
+        background-color: #c1f9ae
+    }
+
+    .page-container .sub-title {
+        height: 60px;
+        line-height: 60px;
+        background-color: #f1aa2e;
+        color: #fff
+    }
+
+    .page-container .sub-title h2 {
+        background-image: url(/static/images/gift.png);
+        background-position: 40px 50%;
+        background-repeat: no-repeat;
+        font-size: 18px;
+        font-weight: 400;
+        padding-left: 100px
+    }
+
+    .error-message, .success-message {
+        text-align: center;
+        padding: 30px 0
+    }
+
+    .error-message .message-icon, .error-message .message-text, .success-message .message-icon, .success-message .message-text {
+        display: inline-block;
+        vertical-align: middle
+    }
+
+    .error-message .message-icon, .success-message .message-icon {
+        background-image: url(/static/images/ok.png);
+        width: 40px;
+        background-size: cover;
+        height: 40px
+    }
+
+    .error-message .message-text, .success-message .message-text {
+        text-align: left;
+        margin-left: 10px
+    }
+
+    .error-message .message-text h2, .success-message .message-text h2 {
+        font-size: 20px;
+        font-weight: 400;
+        color: #4e9338
+    }
+
+    .error-message .message-text p, .success-message .message-text p {
+        color: #8bda71
+    }
+
+    .company-info, .user-info {
+        display: inline-block;
+        padding: 10px 30px;
+        text-align: left
+    }
+
+    .company-info p, .insurance-info p, .user-info p {
+        line-height: 28px
+    }
+
+    .form-title {
+        background-color: #fff;
+        position: relative
+    }
+
+    .form-title .effective {
+        position: absolute;
+        display: block;
+        background-image: url(/static/images/effective.png);
+        width: 89px;
+        height: 89px;
+        top: 50%;
+        right: 50px;
+        margin-top: -45px
+    }
+
+    .form-title .logo img {
+        width: 114px
+    }
+
+    .form-title .text {
+        margin-left: 100px;
+        font-weight: 700
+    }
+
+    .table-container table {
+        border-collapse: collapse;
+        border: none
+    }
+
+    .table-container td {
+        border: 1px solid #f4f4f4;
+        background-color: #fffbf4;
+        text-align: center
+    }
+
+    .table-container td .insurance-range {
+        text-align: left;
+        padding: 20px 30px
+    }
+
+    .table-container .first td {
+        background-color: #fff;
+        text-align: left
+    }
+
+    .table-container .insurance-money, .table-container .insurance-range, .table-container .insurance-title {
+        padding: 20px 0;
+        font-size: 15px
+    }
+
+    .table-container .header td .insurance-money, .table-container .header td .insurance-range, .table-container .header td .insurance-title {
+        color: #333231;
+        font-size: 20px
+    }
+
+    .table-container .attention {
+        color: #e37e66
+    }
+
+    .form-item-check {
+        color: #070002;
+        text-align: center;
+        padding: 30px
+    }
+
+    .form-item-check strong {
+        font-weight: 400;
+        color: #f1aa2e
+    }
+
+    .form-item-submit {
+        padding-bottom: 50px
+    }
+
+    .form-item-submit .submit-button {
+        font-size: 20px;
+        border: 0;
+        background-color: #f1aa2e;
+        color: #fff;
+        height: 50px;
+        line-height: 50px;
+        width: 360px;
+        display: block;
+        margin: 0 auto;
+        cursor: pointer
+    }
+
+    .form-item-submit .submit-button.disabled {
+        background-color: #ccc
+    }
+
+    .container, .sorry-message {
+        background: #fff
+    }
+
+    .sorry-message {
+        text-align: center;
+        border-bottom: 1px solid #f4f4f4;
+        padding: 40px
+    }
+
+    .sorry-message .message-icon, .sorry-message .message-text {
+        display: inline-block;
+        vertical-align: middle
+    }
+
+    .sorry-message .message-icon {
+        background-image: url(/static/activity/smart/images/heiniu.png);
+        width: 114px;
+        height: 180px
+    }
+
+    .sorry-message .message-text {
+        text-align: left;
+        margin-left: 4px
+    }
+
+    .sorry-message .message-text p {
+        font-size: 18px;
+        color: #818181
+    }
+
+    .hongbao {
+        padding: 50px 0;
+        width: 300px;
+        position: relative;
+        margin: 0 auto
+    }
+
+    .hongbao .button, .hongbao .money {
+        position: absolute;
+        color: #fff;
+        text-align: center
+    }
+
+    .hongbao .hongbao-icon img {
+        display: block;
+        width: 300px
+    }
+
+    .hongbao .money {
+        font-weight: 700;
+        top: 100px;
+        width: 100%;
+        font-size: 18px
+    }
+
+    .hongbao .button {
+        font-size: 14px;
+        border: 0;
+        background-color: #f1aa2e;
+        height: 32px;
+        line-height: 32px;
+        width: 200px;
+        display: block;
+        top: 186px;
+        left: 50%;
+        margin-left: -100px
+    }
+
+    .hongbao a {
+        color: #fff;
+        text-decoration: none
+    }
+
+    .insurance-form {
+        background-color: #fff
+    }
+
+    .company-info, .insurance-info, .user-info {
+        border-top: 1px solid #f3f3f3;
+        color: #979797
+    }
+
+    .company-info h3, .insurance-info h3, .user-info h3 {
+        color: #474747;
+        font-size: 16px;
+        font-weight: 400
+    }
+
+    .company-info p, .insurance-info p, .user-info p {
+        color: #585858
+    }
+
+    .form-title {
+        padding: 30px
+    }
+
+    .form-title .logo, .form-title .text {
+        display: inline-block;
+        line-height: 1rem;
+        vertical-align: middle
+    }
+
+    .form-title .text {
+        font-size: 20px;
+        color: #272727
+    }
+
+    .insurance-info {
+        padding: 0;
+        background-color: #fffbf4;
+        line-height: 1.75rem
+    }
+
+    .insurance-info .insurance-item {
+        border-bottom: 1px solid #f8f1e5
+    }
+
+    .insurance-info .insurance-item.first {
+        font-weight: 700
+    }
+
+    .insurance-info .insurance-item .insurance-title {
+        border-right: 1px solid #f8f1e5
+    }
+
+    .insurance-info .insurance-money, .insurance-info .insurance-title {
+        display: inline-block;
+        width: 49%;
+        text-align: center
+    }
+
+    .footer {
+        background-color: #31302f;
+        padding-top: 50px
+    }
+
+    .footer .footer-content {
+        width: 460px;
+        margin: 0 auto;
+        padding-bottom: 50px;
+        position: relative
+    }
+
+    .footer .weixin-qrcode {
+        position: absolute;
+        top: 0;
+        right: -150px;
+        color: #a6a5a5;
+        text-align: center
+    }
+
+    .footer .weixin-qrcode img {
+        border: 4px solid #FFF
+    }
+
+    .footer .contact-methods {
+        color: #a6a5a5
+    }
+
+    .footer .contact-methods li {
+        list-style: none;
+        background-image: url(/static/images/phone.png);
+        background-position: 0 center;
+        background-repeat: no-repeat;
+        padding-left: 40px;
+        height: 30px;
+        line-height: 30px;
+        margin-bottom: 10px
+    }
+
+    .footer .contact-methods li.qq {
+        background-image: url(/static/images/qq.png)
+    }
+
+    .footer .contact-methods li.mail {
+        background-image: url(/static/images/mail.png)
+    }
+
+    .footer .contact-methods li span {
+        color: #707070
+    }
+
+    .footer .copyright {
+        color: #707070;
+        margin-top: 20px
+    }
+
+    .footer .safe {
+        text-align: center;
+        background-color: #f5f5f5;
+        padding: 20px 0
+    }
+
+</style>
+
+<img src="http://c.cnzz.com/wapstat.php?r=&amp;siteid=1257406960&amp;rnd=604104653" style="position:absolute;width:0px;height:0px;visibility: hidden" border="0"
+     width="0" height="0"/>
+
+<div class="header">
+    <div class="header-wrapper">
+        <div class="header-content">
+            <div class="logo">
+                <img src="/static/activity/smart/images/logo.png" alt=""/>
+            </div>
+            <h1>
+                <a href="/">
+                    <img src="/static/logos/heiniu.png" alt=""/>
+                </a>
+            </h1>
+        </div>
+    </div>
+</div>
+<div class="page">
+    <div class="page-container">
+        <div class="form-header">
+            <img src="/static/activity/smart/images/form_header.png" alt=""/>
+        </div>
+        <h2 class="form-sub-title">填写问卷,领平安免费保险和滴滴出行百元红包!</h2>
+
+        <div class="page-wrapper">
+            <div class="survey-form">
+                <form method="post" id="surveyForm">
+                    <div class="choice-container">
+                        <div class="form-item">
+                            <div class="form-item-title">
+                                1.下列哪个是您认为最重要的？
+                            </div>
+                            <div class="form-item-input">
+                                <div class="item-radio">
+                                    <label><input name="q1" type="radio" value="A"/><span>人身意外保障</span></label>
+                                </div>
+                                <div class="item-radio">
+                                    <label><input name="q1" type="radio" value="B"/><span>重大疾病保障</span></label>
+                                </div>
+                                <div class="item-radio">
+                                    <label><input name="q1" type="radio" value="C"/><span>养老年金保障或者其他</span></label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-item">
+                            <div class="form-item-title">
+                                2. 您愿意花费总收入的多少比例购买保险？
+                            </div>
+                            <div class="form-item-input">
+                                <div class="item-radio">
+                                    <label><input name="q2" type="radio" value="A"/><span>10%</span></label>
+                                </div>
+                                <div class="item-radio">
+                                    <label><input name="q2" type="radio" value="B"/><span>20%</span></label>
+                                </div>
+                                <div class="item-radio">
+                                    <label><input name="q2" type="radio" value="C"/><span>大于30%</span></label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-item">
+                            <div class="form-item-title">
+                                3. 家庭成员中您认为谁最需要购买保险？
+                            </div>
+                            <div class="form-item-input">
+                                <div class="item-radio">
+                                    <label><input name="q3" type="radio" value="A"/><span>处于家里收入支柱的中青年人</span></label>
+                                </div>
+                                <div class="item-radio">
+                                    <label><input name="q3" type="radio" value="B"/><span>小孩</span></label>
+                                </div>
+                                <div class="item-radio">
+                                    <label><input name="q3" type="radio" value="C"/><span>老人</span></label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-input-container">
+                        <div class="text-input-items">
+                            <div class="form-item">
+                                <div class="form-item-title">
+                                    您的姓名：
+                                </div>
+                                <div class="form-item-input">
+                                    <div class="input-wrapper">
+                                        <input type="text" class="input-text" name="name" placeholder="2~21个汉字" value=""/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-item">
+                                <div class="form-item-title">
+                                    身份证：
+                                </div>
+                                <div class="form-item-input">
+                                    <div class="input-wrapper">
+                                        <input type="text" class="input-text" name="idCard" placeholder="请输入身份证号" value=""/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-item form-item-mobile">
+                                <div class="form-item-title">
+                                    手机号码：
+                                </div>
+                                <div class="form-item-input">
+                                    <div class="input-wrapper">
+                                        <input class="input-text" name="mobile" placeholder="用于接收保单凭证和滴滴红包" type="tel" value=""/>
+                                    </div>
+                                    <div class="tip">
+                                        滴滴出行红包直接派发至此手机！红包仅可领 取一次，提交过后不可重复领取。
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-item-submit">
+                                <div class="input-wrapper">
+                                    <button type="submit" class="submit-button">提交并领取</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="banners">
+                <div class="banner">
+                    <img src="/static/activity/smart/images/banner_pingan.png" alt=""/>
+                    <i class="free"><img src="/static/activity/smart/images/free.png" alt=""/></i>
+                </div>
+                <div class="banner">
+                    <i class="free"><img src="/static/activity/smart/images/free.png" alt=""/></i>
+                    <img src="/static/activity/smart/images/banner_didi.png" alt=""/>
+                </div>
+            </div>
+            <div class="heiniu-description">
+                <div class="feature feature1">
+                    <div class="icon">
+                        <img src="/static/activity/smart/images/feat1.png" alt=""/>
+                    </div>
+                    <h2>一分钟快速订制</h2>
+
+                    <p>生活、工作、出行，我<br/> 们只给你最优质的保障</p>
+                </div>
+                <div class="feature feature2">
+                    <div class="icon">
+                        <img src="/static/activity/smart/images/feat2.png" alt=""/>
+                    </div>
+                    <h2>保险公司直接销售</h2>
+
+                    <p>去除中间环节，我们给<br/>你最具性价比的产品</p>
+                </div>
+                <div class="feature feature3">
+                    <div class="icon">
+                        <img src="/static/activity/smart/images/feat3.png" alt=""/>
+                    </div>
+                    <h2>理赔全面跟踪</h2>
+
+                    <p>理赔进度实时可查， <br/>全程为您提供顾问服务</p>
+                </div>
+                <div class="feature weixin">
+                    <div class="icon">
+                        <img src="/static/activity/smart/images/weixin.png" alt=""/>
+                    </div>
+                    <p>公众号名称：黑牛保</p>
+
+                    <p>公众号ID：heiniubaoxian</p>
+                </div>
+            </div>
+        </div>
+        <div class="activity-rules">
+            <s>
+                <img src="/static/activity/smart/images/rules-background.png" alt=""/>
+            </s>
+
+            <h2>活动细则EXPLAIN</h2>
+
+            <div class="rules-list">
+                <p>1.参与活动即可获得100元的滴滴出行红包，包括快车、专车、出租车等红包；</p>
+
+                <p>2.每个客户受赠交通意外保障以一份为限，保险对象为25-50周岁，身体健康，能正常工作和劳动；</p>
+
+                <p>3.本保险仅提供电子保单，保单生效后客户会自动收到短信通知；</p>
+
+                <p>4.投保成功后，请保存好电子保单号，以方便查询及理赔；</p>
+
+                <p>5.保险公司将有工作人员电话回访，为您确认免费保障生效事宜；</p>
+
+                <p>6.本介绍内容仅供参考，详细内容请参阅保险合同之保险条款，并以保险合同之规定内容为准。</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <div class="footer-content">
+        <ul class="contact-methods">
+            <li class="phone">客服热线：010-52747178<span>（工作日10:00-17:00）</span></li>
+            <li class="mail">客服邮箱：service@heiniubao.com</li>
+            <li class="qq">客服 QQ：3039213508</li>
+        </ul>
+        <div class="weixin-qrcode">
+            <div>
+                <img src="/static/images/weixin.png" alt=""/>
+            </div>
+            <div>关注我们</div>
+        </div>
+        <div class="copyright">
+            Copyright 2016-2017 All Rights Reserved ICP证苏16004147号-1
+        </div>
+    </div>
+    <div class="safe">
+        <a class="thesafe" href="http://webscan.360.cn/index/checkwebsite/url/www.heiniubao.com"><img border="0"
+                                                                                                      src="http://img.webscan.360.cn/status/pai/hash/311561e876a3e42a5a918d30a0db5750"></a>
+    </div>
+</div>
+<div class="dialog-mask"></div>
+<div class="dialog-container">
+    <div class="dialog-header">
+        <h2>温馨提示</h2>
+        <a href="javascript:;" class="dialog-close">&times;</a>
+    </div>
+    <div class="dialog-body">
+        <div class="dialog-icon">
+            <img src="/static/activity/smart/images/dialog-icon.png" alt=""/>
+        </div>
+        <div class="dialog-text">
+        </div>
+    </div>
+    <div class="dialog-footer">
+        <a href="javascript:;" class="dialog-close">关闭</a>
+    </div>
+</div>
+<script src="/static/activity/smart/js/pc.js"></script>
+
+
+</body>
+</html>
